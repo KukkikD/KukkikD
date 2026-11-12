@@ -6,7 +6,7 @@ I have earned an Associate of Applied Science in Software Development and am con
 
 ## About Me
 
-My background is in sales & Marketing, hospitality, customer service, and administration. I’m bringing my communication, organization, and problem-solving experience into a new career in technology.
+My background is in Export sales & Marketing, hospitality, customer service, and administration. I’m bringing my communication, organization, and problem-solving experience into a new career in technology.
 
 Through coursework, team projects, and personal projects, I have gained hands-on experience building websites, web applications, REST APIs, and an Android application.
 
